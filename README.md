@@ -40,8 +40,8 @@ ENCRYPTION_KEY=your-32-character-long-key
 # Execution and Output: <a name="Execute"> 
   1. Run test.js file
 
+  ![proof for text Encryption execution](https://github.com/MouryaSagar17/Text-Encryption-Using-Cryptographic-Algorithms/assets/143429477/240e6b7f-3b11-4f16-98a2-c53cb27e6665)
 
-     ![proof for text Encryption execution](https://github.com/MouryaSagar17/Text-Encryption-Using-Cryptographic-Algorithms/assets/143429477/240e6b7f-3b11-4f16-98a2-c53cb27e6665)
 
-
+You should see the original text, the encrypted text, and the decrypted text printed to the console. The decrypted text should match the original text, demonstrating that the encryption and decryption functions work correctly.
 
