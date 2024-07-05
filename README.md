@@ -5,7 +5,7 @@ Author : Mourya
 
 **<br>
 ### Homepage
-![Execution](/proof for text Encrpytion execution.png)
+![Execution](/proof for text Encryption execution.png)
 ### Successful login
-![Dashboard](images/4.jpg)
+![Dashboard](/output Text  Encryption.png)
 **
